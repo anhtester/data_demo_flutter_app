@@ -1,0 +1,70 @@
+{
+    "name": "Base store",
+    "description": "Đây là dữ liệu cơ bản nhất.",
+    "data": {
+        "tables": {
+            "06080b7d-62db-4b60-80c6-5e038a505512": {
+                "name": "Table 1"
+            },
+            "12345678-90ab-cdef-1234-567890abcdef": {
+                "name": "Table 2"
+            },
+            "23456789-01bc-def0-1234-567890abcdef": {
+                "name": "Table 3"
+            },
+            "34567890-12cd-ef01-2345-67890abcdef0": {
+                "name": "Table 4"
+            },
+            "45678901-23de-f012-3456-7890abcdef01": {
+                "name": "Table 5"
+            },
+            "56789012-34ef-0123-4567-890abcdef012": {
+                "name": "Table 6"
+            },
+            "67890123-45f0-1234-5678-90abcdef0123": {
+                "name": "Table 7"
+            },
+            "78901234-56a1-2345-6789-0abcdef01234": {
+                "name": "Table 8"
+            }
+        },
+        "products": {
+            "0d03c28b-fc06-4413-9db8-140816f8ef03": {
+                "name": "Sting đỏ",
+                "price": 18000,
+                "image": "sting.png",
+                "is_hidden": false
+            },
+            "1a24b35c-7d18-4820-a6f3-2418bceefc12": {
+                "name": "Coca-Cola",
+                "price": 12000,
+                "image": "coca_cola.png",
+                "is_hidden": false
+            },
+            "2b35c46d-8e29-5931-b7g4-3529cdefed34": {
+                "name": "Pepsi",
+                "price": 15000,
+                "image": "pepsi.png",
+                "is_hidden": false
+            },
+            "5e68f79g-bg5c-8264-eaj7-685cffeeff90": {
+                "name": "Trà Xanh 0 độ",
+                "price": 13000,
+                "image": "tra_xanh.png",
+                "is_hidden": false
+            },
+            "6f79g80h-ch6d-9375-fbk8-796dffeeff02": {
+                "name": "Bia Tiger",
+                "price": 22000,
+                "image": "tiger.png",
+                "is_hidden": true
+            },
+            "7g80h91i-dj7e-a486-gcl9-8a7effeef013": {
+                "name": "Nước khoáng Lavie",
+                "price": 8000,
+                "image": "lavie.png",
+                "is_hidden": false
+            }
+        }
+    }
+}
